@@ -1,0 +1,20 @@
+p{
+    background-color: lightgray;
+}
+
+.pertama{
+    background-color: orange;
+}
+
+.kedua{
+    background-color: blue;
+}
+
+.ketiga{
+    background-color: white;
+    font-family: monospace; 
+}
+.keempat{
+    background-color: lightslategray;
+    font-family: fantasy;
+}
